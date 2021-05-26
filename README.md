@@ -4,7 +4,11 @@ As the name of repository suggest, this repository contains notebook files that 
 ## About notebooks
 There are 2 notebooks here:
 - one of them is about how to find the maximum likelihood estimate.
+https://nbviewer.jupyter.org/github/Nevermetyou65/When-I-code-to-do-statistics-for-the-first-time/blob/main/Simulation%20Maximum%20likelihood.ipynb
+
 - another one shows you how to determine the estimate, credible interval and conducting hypotheses testing in Bayasian way.
+https://nbviewer.jupyter.org/github/Nevermetyou65/When-I-code-to-do-statistics-for-the-first-time/blob/main/Simulation%20Bayesian%20%28basic%29.ipynb
+
 
 As part of my hobbies, I just try to simulate things instead of doing it mathematically. So, what in repository is nothing new to the world. But this is my own way to encourage myself to study both conding and statistics in the same time.:yum:
 
