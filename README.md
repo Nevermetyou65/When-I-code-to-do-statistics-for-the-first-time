@@ -1,5 +1,5 @@
 # When-I-code-to-do-statistics-for-the-first-time :zany_face:
-As the name of repository suggest, this repository contains notebook files that diaplays the code and its result of statistical simulation.
+As the name of repository suggest, this repository contains notebook files that displays the code and its result of statistical simulation.
 
 ## About notebooks
 There are 2 notebooks here:
@@ -10,7 +10,7 @@ https://nbviewer.jupyter.org/github/Nevermetyou65/When-I-code-to-do-statistics-f
 https://nbviewer.jupyter.org/github/Nevermetyou65/When-I-code-to-do-statistics-for-the-first-time/blob/main/Simulation%20Bayesian%20%28basic%29.ipynb
 
 
-As part of my hobbies, I just try to simulate things instead of doing it mathematically. So, what in repository is nothing new to the world. But this is my own way to encourage myself to study both conding and statistics in the same time.:yum:
+As part of my hobbies, I just try to simulate things instead of doing it mathematically. So, what in repository is nothing new to the world. But this is my own way of encouraging myself to study both coding and statistics in the same time.:yum:
 
 ## Inspiration :stars:
 Originally, the content in the notebook -also the method that I used- is a part of my homework assignment when I was studying statistical inference class, at chulalongkorn university.
